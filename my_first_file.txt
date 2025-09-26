@@ -1,3 +1,1 @@
-My first Git file. //First time working with Git too
-This line is from dev branch
-Adding parks info
+My first Git file
