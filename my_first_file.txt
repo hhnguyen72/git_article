@@ -1,1 +1,2 @@
-My first Git file
+My first Git file. //First time working with Git too
+This line is from dev branch
